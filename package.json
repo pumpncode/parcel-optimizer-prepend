@@ -57,7 +57,7 @@
 	"repository": "pumpncode/parcel-optimizer-prepend",
 	"scripts": {
 		"release": "np",
-		"test": "ava --verbose"
+		"test": "echo \"no tests yet :(\""
 	},
 	"config": {
 		"port": "9000"
