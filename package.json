@@ -1,6 +1,6 @@
 {
 	"name": "@pumpn/parcel-optimizer-prepend",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"description": "parcel optimizer to prepend text to the bundle file",
 	"keywords": [
 		"parcel",
