@@ -39,8 +39,7 @@
 		}
 	],
 	"files": [
-		"./source",
-		"./build"
+		"./index.cjs"
 	],
 	"main": "./index.cjs",
 	"type": "module",
