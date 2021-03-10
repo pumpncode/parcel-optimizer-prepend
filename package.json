@@ -77,6 +77,6 @@
 		"parcel": "^2.0.0-nightly.620"
 	},
 	"dependencies": {
-		"@parcel/plugin": "^2.0.0-nightly.622+dc8586e3"
+		"@parcel/plugin": "^2.0.0-nightly.622"
 	}
 }
