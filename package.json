@@ -38,9 +38,6 @@
 			"url": "https://www.patreon.com/nnmrts"
 		}
 	],
-	"files": [
-		"./index.cjs"
-	],
 	"main": "./index.cjs",
 	"type": "module",
 	"exports": {
